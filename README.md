@@ -1,4 +1,4 @@
-## Quill
+## FreeWrite
 
 Exploring how Quill rich editor works on a React web app. 
 
@@ -11,8 +11,9 @@ Exploring how Quill rich editor works on a React web app.
 - [x] Able to add pictures/link
 - [x] Able to redo with 200 stacks
 - [x] Able to save previous progress using localForage (refresh the window without losing progress)
-    - localForage is build on top of IndexDB
+    - localForage is built on top of IndexDB
 
 
 ## Reference: 
 - React-Quill: https://www.npmjs.com/package/react-quill
+- localForage: https://github.com/localForage/localForage

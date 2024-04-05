@@ -25,7 +25,6 @@ const Editor = () => {
 
     return (
         <ReactQuill
-            className='text-editor'
             theme='snow'
             value={value}
             modules={modules}
