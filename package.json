@@ -17,10 +17,10 @@
     "postcss": "^8.4.31"
   },
   "scripts": {
-    "start": "BROWSER=none WDS_SOCKET_PORT=0 vite --port 3000",
+    "start": "BROWSER=none WDS_SOCKET_PORT=0 vite",
+    "dev": "vite dev",
     "build": "vite build",
-    "preview": "vite preview",
-    "test": "vitest"
+    "preview": "vite preview"
   },
   "eslintConfig": {
     "extends": [
