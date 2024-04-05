@@ -30,7 +30,7 @@ export const modules = {
 
   history: {
     delay: 1000, // changes occuring within the delay number of milliseconds will be bundled
-    maxStack: 50, // maximum dize of history's undo/redo stack
+    maxStack: 200, // maximum size of history's undo/redo stack
     userOnly: true
   }
 };
