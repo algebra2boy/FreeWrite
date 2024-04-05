@@ -9,6 +9,7 @@ function App() {
       <div className="text-sm text-gray-600">
         <p>To use rich text features, select the text you wish to format and choose an option from the toolbar.</p>
         <p>To undo, press Ctrl + Z (Cmd + Z on macOS).</p>
+        <p>Your progress will be saved on the browser (try refreshing your window). </p>
       </div>
       <Editor />
     </div>
