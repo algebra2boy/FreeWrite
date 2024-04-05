@@ -1,6 +1,6 @@
 ## Quill
 
-Exploring ow Quill rich editor works on a React web app. 
+Exploring how Quill rich editor works on a React web app. 
 
 
 ## Basic Features
